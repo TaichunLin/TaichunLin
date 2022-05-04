@@ -1,3 +1,3 @@
 Leah Lin
-| Currently, Full Stack Developer Intern
+| Full Stack Developer Intern
 | helloleah23@gmail.com
